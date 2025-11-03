@@ -1,6 +1,6 @@
 # Real-Time Order Book Visualizer
 
-A **real-time cryptocurrency order book visualizer** built with **Next.js**, **Tailwind CSS**, and **Binance WebSocket API**.  
+A **real-time order book visualizer** built with **Next.js**, **Tailwind CSS**, and **Binance WebSocket API**.  
 It displays live updates of BTC/USDT market data — including **buy/sell orders**, **recent trades**, and **spread**.
 
 ---
